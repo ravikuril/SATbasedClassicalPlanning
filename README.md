@@ -4,7 +4,9 @@ All the standrad of the CoDMAP is followed. Currently it is using custom complie
 It supports two domains(blockword and Driverlog) of the CoDMAP. 
 
 #How to Run
+
 EXPORT=$(pwd)
+
 ./glucose or ./minisat 
 
 #Link
