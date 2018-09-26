@@ -26,5 +26,5 @@ Glucose SAT planner link: http://www.labri.fr/perso/lsimon/glucose/
 CoDMAP Link: http://agents.fel.cvut.cz/codmap/
 
 
-There are more things yet to come !! 
+There are more updates yet to come !! 
 
