@@ -13,6 +13,11 @@ EXPORT=$(pwd)
 
 ./glucose or ./minisat 
 
+
+#report link
+https://www.scribd.com/document/400009536/SAT-based-planning-for-multiagent-systems
+
+
 #Software Link:
 https://drive.google.com/open?id=1X7rrgW6CZlAzAKLDklZD12Wy-qXSFidF
 
