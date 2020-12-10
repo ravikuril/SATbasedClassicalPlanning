@@ -32,5 +32,5 @@ CoDMAP Link: http://agents.fel.cvut.cz/codmap/
 
 
 There are more updates yet to come !!
-[embed]https://github.com/ravikuril/SATbasedClassicalPlanning/blob/master/satreport.pdf[/embed]
+[embed]https://github.com/ravikuril/SATbasedClassicalPlanning/blob/master/satreport.pdf [/embed]
 
